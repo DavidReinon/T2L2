@@ -3,3 +3,6 @@ David Reinón García
 1.
 cd /home
 mkdir T2L2
+
+2.
+cd T2L2
