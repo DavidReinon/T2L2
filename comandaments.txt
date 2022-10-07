@@ -1,0 +1,5 @@
+David Reinón García
+
+1.
+cd /home
+mkdir T2L2
