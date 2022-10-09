@@ -31,3 +31,6 @@ grep -E "Línia|Totes" demo.txt
 
 9.
 grep -r "línia" | wc -l
+
+10.
+grep -n "línia" demo.txt
