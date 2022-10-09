@@ -6,3 +6,7 @@ mkdir T2L2
 
 2.
 cd T2L2
+
+3.
+nano demo.txt
+(Afegim el text y guardem amb CTRL + O)
