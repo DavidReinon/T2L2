@@ -25,3 +25,6 @@ grep -r "línia" *
 
 7.
 grep -E "línia|blanc" demo.txt
+
+8.
+grep -E "Línia|Totes" demo.txt
